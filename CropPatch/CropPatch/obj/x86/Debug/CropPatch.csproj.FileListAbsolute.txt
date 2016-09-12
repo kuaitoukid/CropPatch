@@ -1,0 +1,7 @@
+C:\Users\KK\Desktop\CropPatch\CropPatch\bin\Debug\CropPatch.exe
+C:\Users\KK\Desktop\CropPatch\CropPatch\bin\Debug\CropPatch.pdb
+C:\Users\KK\Desktop\CropPatch\CropPatch\obj\x86\Debug\CropPatch.CropPatch.resources
+C:\Users\KK\Desktop\CropPatch\CropPatch\obj\x86\Debug\CropPatch.Properties.Resources.resources
+C:\Users\KK\Desktop\CropPatch\CropPatch\obj\x86\Debug\CropPatch.csproj.GenerateResource.Cache
+C:\Users\KK\Desktop\CropPatch\CropPatch\obj\x86\Debug\CropPatch.exe
+C:\Users\KK\Desktop\CropPatch\CropPatch\obj\x86\Debug\CropPatch.pdb
